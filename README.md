@@ -1,6 +1,6 @@
-# MM
+# MM: Mixture of Experts with Mixture of Precisions for Tuning Quality of Service
 ## Citation
-If you use MM in your research, please cite the following paper. 
+If you use MM in your research, please cite the following paper:
 ```
 @misc{imani2024mixtureexpertsmixtureprecisions,
       title={Mixture of Experts with Mixture of Precisions for Tuning Quality of Service}, 
